@@ -35,3 +35,6 @@ _ _
 - i have REALLY horrible tone detection. Please use tone tags. 
 - [TT guide](https://www.textline.com/blog/tone-indicator-list) 
 - ! ! ! ! ! ! ! ! ! !
+
+
+<img src="https://i.pinimg.com/736x/65/b6/8f/65b68fc0ae96efc1e5d97c83c309e357.jpg" alt="Story pin image"/>
